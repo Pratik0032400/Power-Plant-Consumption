@@ -1,5 +1,6 @@
 # Power-Plant-Consumption
-The dashboards provide key insights into inventory management and power generation, highlighting trends, costs, and efficiency. They support informed decision-making and optimization of warehouse and energy operations.
+The inventory management and power generation, highlighting trends, costs, and efficiency. They support informed decision-making and optimization of warehouse and energy operations.
+
 📝𝗦𝘂𝗺𝗺𝗮𝗿𝘆:
 
 The dashboards deliver a comprehensive overview of warehouse inventory management and power generation metrics, enabling stakeholders to monitor key performance indicators (KPIs) effectively.
